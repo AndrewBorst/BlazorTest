@@ -1,0 +1,43 @@
+﻿<div class="container">
+  <div class="row">
+    <div class="alert alert-secondary m-1 col-sm" role="alert">
+      <span class="oi oi-pencil mr-2"></span>
+         <pre>
+        IDENTIFICATION DIVISION.       
+        PROGRAM-ID. HELLO-WORLD.
+        * simple hello world program
+        PROCEDURE DIVISION.
+            DISPLAY 'Hello world!'.
+            STOP RUN.
+      </pre>
+    </div>
+  <div class="alert alert-secondary m-1 col-sm" role="alert">
+    <span class="oi oi-pencil mr-2"></span>
+    <pre class="mx-auto p-5">print("Hello World!")</pre>
+  </div>
+  <div class="alert alert-secondary m-1 col-sm" role="alert">
+      <span class="oi oi-pencil mr-2"></span>
+         <pre>
+      using System;
+
+      namespace ConsoleApp1
+      {
+        class Program
+        {
+          static void Main(string[] args)
+          {
+              Console.WriteLine("Hello, world!");
+              Console.ReadLine();
+          }
+        }
+      }      
+      </pre>
+    </div>
+  </div>
+</div> 
+
+@code {
+    // Demonstrates how a parent component can supply parameters
+    [Parameter]
+    public string Title { get; set; }
+}
