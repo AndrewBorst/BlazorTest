@@ -1,7 +1,18 @@
 ﻿@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
 
+.color9 {
+    background-color: #a187b9;
+}
+.color10 {
+    background-color: #b56d71;
+}
+.color11 {
+    background-color: #f1ab7c;
+}
+
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: silver;
 }
 
 app {
@@ -11,9 +22,11 @@ app {
 }
 
 .top-row {
-    height: 3.5rem;
-    display: flex;
-    align-items: center;
+    height: 3.0rem;
+}
+
+blogpost {
+    background-color: #ffffff;
 }
 
 .main {
@@ -21,12 +34,14 @@ app {
 }
 
     .main .top-row {
-        background-color: #e6e6e6;
-        border-bottom: 1px solid #d6d5d5;
+        background-color:  #389b98;
+        display: flex;
+        align-items: center;
+        flex-direction: row-reverse;
     }
 
 .sidebar {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-color: #389b98;
 }
 
     .sidebar .top-row {
@@ -78,6 +93,7 @@ app {
 
 .content {
     padding-top: 1.1rem;
+    background-color: silver;
 }
 
 .navbar-toggler {
@@ -121,3 +137,4 @@ app {
         display: block;
     }
 }
+
