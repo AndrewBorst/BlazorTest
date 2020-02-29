@@ -40,6 +40,11 @@ blogpost {
         flex-direction: row-reverse;
     }
 
+    .main .top-row a {
+        text-decoration: none;
+        color: black;
+    }
+
 .sidebar {
     background-color: #389b98;
 }
