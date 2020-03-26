@@ -12,7 +12,7 @@ Here a couple of different scenarios:
 
     **Recommendation:** Break the ERP into smaller parts. Buy easy-to-implement software to provide functions where there are standardized processes in the business (e.g., Accounting). Then, develop a custom application to provide order tracking, plant resource utilization, and scheduling. 
 
-When I have advocated for a custom solution, there has been reluctance at the executive level to accept that coding software is a beneficial or advantageious option. My opinion is quite different because I view development as efficient and cost-effective. We no longer write a lot of code to do perform tasks. Instead, we use libraries provided by others  to perform large tasks with one line of code. To be able to provide this benefit, the IT team needs to stay current with their skills and make efficient use of their tools. 
+When I have advocated for a custom solution, there has been reluctance at the executive level to accept that coding software is a beneficial or advantageous option. My opinion is quite different because I view development as efficient and cost-effective. We no longer write a lot of code to do perform tasks. Instead, we use libraries provided by others  to perform large tasks with one line of code. To be able to provide this benefit, the IT team needs to stay current with their skills and make efficient use of their tools. 
 
     
 
