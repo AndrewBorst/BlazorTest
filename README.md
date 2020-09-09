@@ -1,3 +1,2 @@
 # BlazorTest
-
-Source for the deployed Github Pages site at https://andrewborst.github.io/Borst
+Published Github Pages site at <h2>https://andrewborst.github.io/Borst</h2>
